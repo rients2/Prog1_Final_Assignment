@@ -6,9 +6,10 @@ Author: Rients Dalstra
 # How to run
 The repository has one notebook file called _Final_Assignment_2021_Rients.ipynb_ containing all the code. <br>
 #### To load the project simply run all cells in the notebook.
-<br> <br>
+<br>
 2 of the 3 required datasets are directly loaded from the cbs with the use of a python library they provide. <br>
-The other dataset is included in the repository and is loaded in by using the relative path to the notebook file <br>
+The other dataset is included in the repository and is loaded in by using the relative path to the notebook file. <br> <br>
+
 
 The required packages with the versions used for the project are:
 ```
@@ -30,5 +31,5 @@ https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=83095NE
 <br> <br>
 Police registered theft dataset: <br>
 https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=83651NED&_theme=401 
-<br>
-
+<br> <br>
+In the repo there is also a folder with 2 pictures of the dashboard to show how it's supposed to look like. <br> <br>
